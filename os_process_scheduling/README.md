@@ -2,6 +2,5 @@
 
 ```
 make
-
 sudo ./scheduling < test data
 ```
